@@ -1,0 +1,15 @@
+{
+  "name": "read-big-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "createBigFile": "node createBigFile.js",
+    "readBigFile": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
